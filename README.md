@@ -11,9 +11,9 @@ El propósito de este trabajo fue **evaluar la estabilidad de las funciones prin
 
 ## 📂 Documentación del Proyecto
 
-🔹 **Plan de Pruebas:** [Abrir documento](https://docs.google.com/document/d/1Xclx5bIpG9WfRe_GF595hR7tft9hZcKFAHjoo1ZhX4Y/edit?usp=sharing)
-🔹 **Casos de Prueba:** [Abrir documento](https://docs.google.com/spreadsheets/d/1c-W9gnOSkxmBPm5yfm11irmmGhot1sURYIYvNvQDpBU/edit?usp=sharing)
-🔹 **Reporte de Bugs:** [Abrir documento](https://docs.google.com/document/d/1cMaC-PjYk95_ESq553YEPi5Wo4Gc3qT5Y3pmtLqfAQo/edit?usp=sharing)
+🔹 **Plan de Pruebas:** [Abrir documento](https://docs.google.com/document/d/1Xclx5bIpG9WfRe_GF595hR7tft9hZcKFAHjoo1ZhX4Y/edit?usp=sharing) 
+🔹 **Casos de Prueba:** [Abrir documento](https://docs.google.com/spreadsheets/d/1c-W9gnOSkxmBPm5yfm11irmmGhot1sURYIYvNvQDpBU/edit?usp=sharing) 
+🔹 **Reporte de Bugs:** [Abrir documento](https://docs.google.com/document/d/1cMaC-PjYk95_ESq553YEPi5Wo4Gc3qT5Y3pmtLqfAQo/edit?usp=sharing) 
 🔹 **Informe Final de Pruebas:** [Abrir documento](https://docs.google.com/document/d/1Pq0GK5I2rjEEqG-Xd2RKVdFoMv0lEqCZT5bUz0esLG0/edit?usp=sharing)
 
 ---
@@ -44,5 +44,5 @@ Estas imágenes complementan el informe y sirven como **prueba visual del proces
 
 ## 🤝 Conecta conmigo
 
-Podés contactarme en [LinkedIn](https://www.linkedin.com/in/danielgaraydev/) 🔗
+Podés contactarme en [LinkedIn](https://www.linkedin.com/in/danielgaraydev/) 🔗 
 tambien por [Gmail](danielgaray.dev@gmail.com) 📫
